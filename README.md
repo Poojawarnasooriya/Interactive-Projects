@@ -59,5 +59,5 @@ git clone https://github.com/your-username/lancashire-property-price-monitor.git
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Lancashire Dashboard Overview](images/dashboard_overview.png)  
+![Lancashire Dashboard Overview](Screenshot 2025-11-22 114833.png)  
 *Figure 1: Full dashboard layout showing filters and summary cards*
